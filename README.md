@@ -1,6 +1,6 @@
 # Quantum-information-toolkit
 Functions realizing most theory 
-in "Quantum Computation and Quantum information" by Nielson
+in "Quantum Computation and Quantum Information" by Nielson
 and 
 some entanglement criteria.
 
